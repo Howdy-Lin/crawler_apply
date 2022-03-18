@@ -83,3 +83,4 @@ df.to_csv('reptile711.csv')
 
 ## 參考資料
 https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html
+https://medium.com/marketingdatascience/selenium%E6%95%99%E5%AD%B8-%E4%B8%80-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8webdriver-send-keys-988816ce9bed
