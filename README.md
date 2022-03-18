@@ -80,3 +80,6 @@ print(dict)
 df = pd.DataFrame(dict) 
 df.to_csv('reptile711.csv')
 ```
+
+## 參考資料
+https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html
