@@ -3,9 +3,11 @@
 目標網站 : https://shop.7-11.com.tw/shop/rui001.faces<br>
 呈現結果如下圖:
 <p align="center"><img src="https://user-images.githubusercontent.com/74965449/159153111-678e3fbf-9a51-4b4e-bafd-c6ce21b474c2.png" width="50%" height="50%"></p><br>
+
 ## (1) 使用selenium操作網頁
 目的是要能做到自動進入7-11網站使用搜尋功能、換頁<br>
 <br>
+
 **搜尋:**<br>
 如下圖，找到搜尋框的class <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/74965449/158956260-ed6403d0-6f99-45b8-92d1-81fa3f357e8d.png" width="50%" height="50%"></p><br>
